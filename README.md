@@ -1,4 +1,6 @@
 # GoProGPS
+[English version](README_en.md)
+
 GoProで撮影した動画（mp4）からGPSデータを抽出し，GPXおよびKML形式のファイルを出力するシンプルなコンソールアプリです．
 （HERO 10で撮影したmp4ファイルで動作確認しています）
 ## プログラムの動きと，必要な外部ファイルについて
