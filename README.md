@@ -17,3 +17,8 @@ GoProで撮影した動画（mp4）からGPSデータを抽出し，GPXおよび
 - 出力されるGPSデータは，3次元測位時かつDOP<=5.0の場合に限っています
 
 出力頻度と出力条件は，"DataOutPut.cs"内で指定しています．
+
+#### 外部リンク
+- [GoPro HERO10の動画（mp4）からGPSデータ等を抽出する方法（調査編）](https://skyrail.tech/archives/102)
+- [GoPro HERO10の動画（mp4）からFFMpegでメタデータを抽出する](https://skyrail.tech/archives/147)
+- [GoPro HERO10 で撮影したmp4からGPSデータを抽出するプログラムをC#で作成する（メタデータ取り出し後の処理を解説）](https://skyrail.tech/archives/171)
